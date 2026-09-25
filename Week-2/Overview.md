@@ -7,3 +7,4 @@ I cant wait to apply it to the PDAP project to map groundhog holes, i think it w
 
 Other Stuff learnt this week: 
 Learning about categorization of data and different types of archeology. with recording the trash like cigarettes butts or looking at architecture I am curious where my idea for my project might fit in. I was originally thinking of the discarded area of things since that was the group i was discussing with in class but i wouldn't really classify ground hog holes like that.
+- I guess groundhog holes could be included into architecture in a way just a natural form of it.  
