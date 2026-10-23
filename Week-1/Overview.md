@@ -1,0 +1,4 @@
+this week was mostly me just figuring out how to use GitHub and learning the basics. it was really scary and overwhelming at first and honestly kind of annoying to have to come into a class and learn a new thing instead of just using Brightspace but i now understand why. GitHub is actually a very useful tool to have and i can even see using it for other classes and outside of schools as well. I think it will be fun to see how much we learn about github and what we will be able to do with it at then end of this course. 
+
+Readings and class material thoughts: 
+this class is definitely going to be interesting for me and as my first archaeology class i am very excited. before this course i saw archaeology as excavations and studding artifacts instead of how it also involves these digital tools and how it is a much more diverse and interesting topic than what most people stereotypically think of.
