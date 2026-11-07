@@ -34,6 +34,8 @@ This was really confusing for me at first, and again I think it might be because
 - After a couple of attempts, understanding it became easier
 - I did make two versions of the matrix that I will include. One matrix I made had a context that was a cut connect and cut through more bottom layers, but I found it looked messy and was not sure if it was necessary to show it cutting through all those layers. I am still a bit confused on this part, but I understand it better after the later exercises, I think
 - A lot of relationships between contexts looked cluttered, but I thought they were important
+<img width="501" height="822" alt="image" src="https://github.com/user-attachments/assets/99ab2b2d-da7b-4382-9d26-6f455c4fa9c8" />
+<img width="744" height="782" alt="image" src="https://github.com/user-attachments/assets/ffd68a2b-e38f-439b-b572-99e3e34b4bb4" />
 
 Exercise 2:
 - I think I started understanding how these matrices work here
@@ -46,6 +48,7 @@ This exercise was actually pretty fun and reminded me a lot about doing soil wor
 - I somewhat got confused with the thin layers, as well as the thin layers that to me, kind of looked like a riverbed to the right of one of the big cuts.
 - After numbering the drawing i used the same numbers to create contexts for the Harris matrix, and it went pretty well, and I think I worked out most of the confusion that I was having earlier.
 <img width="778" height="737" alt="image" src="https://github.com/user-attachments/assets/dddfc18d-525b-4863-8058-7692c07c688d" />
+<img width="764" height="852" alt="image" src="https://github.com/user-attachments/assets/0ae5daea-9448-4a16-8cc4-e130653c0247" />
 
 
 **Challenges**
