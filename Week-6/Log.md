@@ -53,3 +53,6 @@ This exercise was actually pretty fun and reminded me a lot about doing soil wor
 
 **Challenges**
 I think the biggest challenges I had this week were just learning and relearning new things. I found the Harris matrix confusing just because of the terminology and it being a bit overwhelming. I equally found R confusing because it's a lot of data and new things all in one place. It definitely helped to have whole classes centred around R in the past. Overall, I thought most of the challenges I had were very easily overcome and made this week's work interesting to learn about. 
+
+**Cool Note**
+Learnt how to use GitHub through a dev tool by adding .dev to the end of the link! I was able to change the name of my file because I entered it wrong. I also added all the files to the whole folder for week 6 and wanted to make a new folder but couldn't figure out how to move them but with using VS code i was able to move all of the files into the new folder.
