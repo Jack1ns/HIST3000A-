@@ -1,0 +1,22 @@
+Context_ID,Context_Type,Description,Earliest_Date_Year,Earliest_Date_Era,Latest_Date_Year,Latest_Date_Era,Date_Type,Phase_ID,Phase_Name,Group_ID,Group_Name,Sub-Group_ID,Sub-Group_Name,Relationship_Type,Related_Context_ID,Temporal_Conflict,Is_Redundant
+"1","layer","Upper soil layer",,"CE",,"CE","","","","","","","","above","4",false,false
+"4","layer","second upper soil level",,"CE",,"CE","","","","","","","","above","15",false,false
+"4","layer","second upper soil level",,"CE",,"CE","","","","","","","","above","16",false,false
+"15","layer","mid soil layer",,"CE",,"CE","","","","","","","","above","17",false,false
+"16","layer","mid soil layer",,"CE",,"CE","","","","","","","","above","17",false,false
+"17","layer","oldest soil layer",,"CE",,"CE","","","","","","","",,,false,
+"14 - LARGE PIT","cut","a large and deep pit",,"CE",,"CE","","","","","","","","cuts","15",false,false
+"14 - LARGE PIT","cut","a large and deep pit",,"CE",,"CE","","","","","","","","cuts","16",false,false
+"13","fill","",,"CE",,"CE","","","","","","","","fill_of","14 - LARGE PIT",false,false
+"12","fill","",,"CE",,"CE","","","","","","","","fill_of","13",false,false
+"11","fill","",,"CE",,"CE","","","","","","","","fill_of","12",false,false
+"10","fill","",,"CE",,"CE","","","","","","","","fill_of","11",false,false
+"9","deposit","",,"CE",,"CE","","","","","","","","fill_of","10",false,false
+"8","cut","",,"CE",,"CE","","","","","","","","cuts","9",false,false
+"6","fill","",,"CE",,"CE","","","","","","","","fill_of","8",false,false
+"7","cut","",,"CE",,"CE","","","","","","","","cuts","15",false,false
+"5","fill","",,"CE",,"CE","","","","","","","","fill_of","7",false,false
+"3","cut","",,"CE",,"CE","","","","","","","","cuts","4",false,false
+"2","fill","",,"CE",,"CE","","","","","","","","fill_of","3",false,false
+"18","fill","",,"CE",,"CE","","","","","","","","fill_of","2",false,false
+"19","cut","",,"CE",,"CE","","","","","","","","cuts","18",false,false

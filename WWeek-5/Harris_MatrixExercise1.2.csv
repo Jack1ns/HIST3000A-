@@ -1,0 +1,19 @@
+Context_ID,Context_Type,Description,Earliest_Date_Year,Earliest_Date_Era,Latest_Date_Year,Latest_Date_Era,Date_Type,Phase_ID,Phase_Name,Group_ID,Group_Name,Sub-Group_ID,Sub-Group_Name,Relationship_Type,Related_Context_ID,Temporal_Conflict,Is_Redundant
+"11","deposit","Lower deposit above context 11, on the left side of the trench",,"CE",,"CE","","","","","","","",,,false,
+"9","deposit","Lower deposit above context 11, on the left side of the trench.",,"CE",,"CE","","","","","","","","above","11",false,false
+"10","deposit","Lower deposit on right side containing brick rubble from a brickworks active from the 1860s until before 1900.",1860,"CE",,"CE","architectural","","","","","","","above","11",false,false
+"8","cut","Shallow cut made into context 9, later filled by context 7.",,"CE",,"CE","","","","","","","","cuts","9",false,false
+"7","fill","Material filling cut 8, containing pottery from a style produced between 1874 and 1890.",1874,"CE",,"CE","pottery","","","","","","","fill_of","8",false,false
+"1","deposit","Upper deposit on the left side containing a coin from 1910.",1910,"CE",,"CE","coin","","","","","","","above","7",false,false
+"4","deposit","Upper deposit on the right side of the trench. Possibly the same original layer as context 1.",,"CE",,"CE","","","","","","","","above","10",false,false
+"5","cut","Construction trench cut through earlier deposits to build wall 2 and its foundation.",,"CE",,"CE","","","","","","","","cuts","1",false,false
+"5","cut","Construction trench cut through earlier deposits to build wall 2 and its foundation.",,"CE",,"CE","","","","","","","","cuts","4",false,false
+"5","cut","Construction trench cut through earlier deposits to build wall 2 and its foundation.",,"CE",,"CE","","","","","","","","cuts","11",false,true
+"5","cut","Construction trench cut through earlier deposits to build wall 2 and its foundation.",,"CE",,"CE","","","","","","","","cuts","9",false,true
+"5","cut","Construction trench cut through earlier deposits to build wall 2 and its foundation.",,"CE",,"CE","","","","","","","","cuts","10",false,true
+"5","cut","Construction trench cut through earlier deposits to build wall 2 and its foundation.",,"CE",,"CE","","","","","","","","cuts","7",false,true
+"12","structure","Foundation placed at the bottom of cut 5 to support wall 2",,"CE",,"CE","","","","","","","","fill_of","5",false,false
+"2","structure","Wall built in construction trench 5, resting on foundation 12",,"CE",,"CE","","","","","","","","above","12",false,false
+"3","fill","Packing material placed around wall 2 in cut 5, containing pottery produced from 1885 to 1901.",1885,"CE",1901,"CE","pottery","","","","","","","fill_of","5",false,false
+"6","structure","Floor surface on the upper right side of the trench",,"CE",,"CE","","","","","","","","above","4",false,true
+"6","structure","Floor surface on the upper right side of the trench",,"CE",,"CE","","","","","","","","seals","3",false,false

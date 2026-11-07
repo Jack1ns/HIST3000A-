@@ -1,0 +1,27 @@
+Context_ID,Context_Type,Description,Earliest_Date_Year,Earliest_Date_Era,Latest_Date_Year,Latest_Date_Era,Date_Type,Phase_ID,Phase_Name,Group_ID,Group_Name,Sub-Group_ID,Sub-Group_Name,Relationship_Type,Related_Context_ID,Temporal_Conflict,Is_Redundant
+"1","layer","",,"CE",,"CE","","","","","","","","above","2",false,false
+"2","layer","",,"CE",,"CE","","","","","","","","above","3",false,false
+"3","layer","",,"CE",,"CE","","","","","","","","above","24",false,false
+"3","layer","",,"CE",,"CE","","","","","","","","above","23",false,false
+"4","layer","",,"CE",,"CE","","","","","","","","above","20",false,false
+"20","layer","",,"CE",,"CE","","","","","","","",,,false,
+"24","layer","",,"CE",,"CE","","","","","","","","above","22",false,false
+"23","layer","",,"CE",,"CE","","","","","","","","above","22",false,false
+"22","layer","",,"CE",,"CE","","","","","","","","above","4",false,false
+"18","cut","",,"CE",,"CE","","","","","","","","cuts","4",false,false
+"19","fill","",,"CE",,"CE","","","","","","","","fill_of","18",false,false
+"21","deposit","rock dep",,"CE",,"CE","","","","","","","","same_as","4",false,false
+"14","cut","",,"CE",,"CE","","","","","","","","cuts","3",false,false
+"16","fill","",,"CE",,"CE","","","","","","","","fill_of","14",false,false
+"15","cut","",,"CE",,"CE","","","","","","","","cuts","16",false,false
+"17","fill","",,"CE",,"CE","","","","","","","","fill_of","15",false,false
+"11","cut","",,"CE",,"CE","","","","","","","","cuts","3",false,false
+"12","structure","pot",,"CE",,"CE","pottery","","","","","","","fill_of","11",false,false
+"13","fill","",,"CE",,"CE","","","","","","","","fill_of","12",false,false
+"5","cut","",,"CE",,"CE","","","","","","","","cuts","2",false,false
+"6","fill","",,"CE",,"CE","","","","","","","","fill_of","5",false,false
+"7","fill","",,"CE",,"CE","","","","","","","","fill_of","6",false,false
+"8","fill","",,"CE",,"CE","","","","","","","","cuts","2",false,false
+"9","structure","wall",,"CE",,"CE","architectural","","","","","","","fill_of","8",false,false
+"10","fill","",,"CE",,"CE","","","","","","","","fill_of","9",false,false
+"25","deposit","maybe a river or something",,"CE",,"CE","","","","","","","","equivalent","2",false,false
